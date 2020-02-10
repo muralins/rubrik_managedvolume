@@ -8,6 +8,6 @@
     "nfs_mount_options": "rw,bg,hard,nointr,rsize=1048576,wsize=1048576,tcp,vers=3,timeo=600,actimeo=0,noatime",
     "applicationTag": "OracleIncremental",
     "numChannels":2,
-    "volumeSize":53687091200
+    "volumeSize":536870912000
   }
   
